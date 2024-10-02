@@ -14,13 +14,13 @@ The **Smart Personal Expense Tracker** is a web application designed to help use
 - **Machine Learning**: Random Forest for predicting future spending.
 - **Data Handling**: Pandas for data manipulation.
 
-##Usage
+## Usage
 - Open the application in your web browser.
 - Enter your budget, overspent amount, and amount spent in the designated fields.
 - Select the relevant category for your expenses.
 - Choose your preferred currency.
 - Click on the "Predict Spending" button to see the predicted future spending.
 
-##Global Availability 
+## Global Availability 
 The Smart Personal Expense Tracker app is globally accessible, allowing users from around the world to manage their finances effectively. You can access the application using the following link:
 https://future-spending-predictor-9gzk4qe8b5fm4tn5g3b2uz.streamlit.app/
