@@ -23,4 +23,5 @@ The **Smart Personal Expense Tracker** is a web application designed to help use
 
 ## Global Availability 
 The Smart Personal Expense Tracker app is globally accessible, allowing users from around the world to manage their finances effectively. You can access the application using the following link:
+
 https://future-spending-predictor-9gzk4qe8b5fm4tn5g3b2uz.streamlit.app/
